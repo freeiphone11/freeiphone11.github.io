@@ -1,0 +1,114 @@
+.lin2txt {
+color: rgb(0, 0, 0);
+text-align: left;
+margin-left: 25px;
+clear: both;
+line-height: 30px !important;
+}
+
+.lin2txt3 {
+color: #f24841;
+padding-left: 50px;
+background: url("../assets/smile1.png") -1px no-repeat;
+margin-top: 15px;
+margin-left: 21px;
+line-height: 23px;
+}
+
+.lin2txt4 {
+color: #4caf50;
+padding-left: 50px;
+background: url("../assets/smile2.png") 0px 4px no-repeat;
+margin-top: 27px;
+margin-left: 21px;
+width: 79%;
+line-height: 1.2;
+line-height: 23px;
+}
+
+.lin3im2 {
+background: url("../assets/walmart.png");
+width: 167px;
+height: 99px;
+background-size: contain;
+margin: 0 auto;
+border-radius: 8px;
+}
+
+.lin3im1 {
+background: url("../img/amazon.jpg") no-repeat;
+width: 288px;
+height: 268px;
+background-size: contain;
+margin: 0 auto;
+border-radius: 8px;
+}
+
+.b1 {
+width: 48%;
+margin: 0 auto;
+padding: 25px 0px;
+}
+
+.line2 {
+width: 80%;
+margin: 0 auto;
+}
+
+.txt3 {
+text-align: center;
+height: 48px;
+}
+
+.txtr {
+background: #d8d8d8;
+padding: 19px;
+padding-top: 9px;
+color: black;
+padding-bottom: 12px;
+width: 296px;
+clear: both;
+margin: 10px auto;
+border-radius: 10px;
+border: 1px solid black;
+}
+
+.red {
+color: red;
+}
+
+.txtr {
+width: auto;
+}   
+
+
+.img2 {
+    padding-top: 24px;
+    float: right;
+}
+
+.text2 {
+    float: left;
+    /* clear: both; */
+    width: 200px;
+    padding-left: 23px;
+}
+
+.img3 {
+    clear: left;
+    float: left;
+}
+
+.intro {
+    margin-bottom: 22px;
+    min-height: 150px;
+    font-size: 23px;
+}
+
+.text2 span {
+    color: green;
+}
+
+.text1 span {
+    color: red;
+}
